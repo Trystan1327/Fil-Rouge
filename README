@@ -1,0 +1,18 @@
+Alors tout dabord j'avais commencer à faire la page d'accueil 
+et le formulaire de contact en front et codeIgniter..
+
+Cependant j'ai bloqué ave une photo à intégrer et j'ai décidé de recommencer avec php et du front !
+et vu que mon ecran de pc et casser et que ma wifi ne fonctionne plus plus depuis fin décembre 2020,
+j'ai recommencer sans me connecter à internet et ce matin 07/01/2021 je me rend compte en branchant 
+le câble adsl je me rend compte que certaines photos sont beaucoup trop grandes pourtant ils sont au format par default :/
+
+Donc je vais voir pour régler ça !! 
+
+Mon planning pour le FilRouge :
+
+    - Faire le front (html, css,bootstrap, js...), réaliser la page d'accueil en la rendant responsive. 
+    - Crée formulaire d'inscription
+    - Crée une base de donnée et mettre en oeuvre la gestion CRUD avecs du SQL.
+    - A partir de la je vais commencer à travailler un peu le SEO que je finaliserai sur la fin du projet.
+   
+    
