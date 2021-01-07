@@ -1,0 +1,170 @@
+#block {
+    background: url("../images/bande\ milieu.png")  no-repeat center center fixed ;
+    margin-left: 180px;
+    width: 1208px;
+   
+  
+  
+    
+}
+
+
+body {
+    background: url("../images/background\ village.png")  ;
+    max-height: 70%;
+   margin-top: 0;
+    max-width: 1206px;
+   
+  
+    
+   
+}
+
+#logo {
+    position: relative;
+    height: 170px;
+   margin-left: 19px;
+
+}
+
+#bandes {
+    
+    position: absolute;
+    margin-left: 3%;
+    width: 1162px;
+    height: 145px;
+} 
+
+.nav {
+    margin-top: 16px;
+    font-weight: bolder;
+position :absolute;
+margin-left: 24%;
+display: inline-block;
+text-decoration: none;
+}
+
+.navTwo {
+    margin-top: 16px;
+font-weight: bolder;
+position :absolute;
+margin-left: 29%;
+display: inline-block;
+text-decoration: none;
+
+}
+
+#panier{
+    position: absolute;
+    right: 27%;
+    margin-top: 6px;
+    
+}
+
+#pics{
+    position: absolute;
+    right: 13%;
+    margin-top: 15px;
+}
+
+
+.nav2{
+    
+    position :absolute;
+    margin-left: 2%;
+    display: inline-block;
+    margin-top: 55px;
+    font-weight: bolder;
+    }
+    .nav2 a {
+    text-decoration: none;
+    color: white;
+    font-size: 22pt;
+    
+    
+    }
+    
+    .nav2 a ,a :hover {
+    margin-left: 51pt;
+    
+    }
+
+    .nav3{
+        position :absolute;
+        
+        display: inline-block;
+        margin-top: 110px;
+        }
+        .nav3 a {
+        text-decoration: none;
+        color: white;
+        font-size: 15pt;
+        
+        }
+        
+        .nav3 a ,a :hover {
+        margin-left: 19pt;
+        
+        }
+
+       
+        
+      
+ #prixdroit{
+    margin-left:  35px;
+    margin-bottom: 20px;
+   
+}
+
+#pubguitare{
+    margin-left: 2%;
+    margin-bottom: 20px;
+}
+
+.nav4 {
+    margin-left: 11px;
+}
+
+.nav5 {
+    margin-left: 11px;
+}
+.nav6 {
+    margin-left: 11px;
+}
+ #cat {
+
+    text-decoration: none;
+     margin-bottom: 18px;
+    margin-left: 2%;
+    display: inline-block;
+    margin-top: 13px;
+    color: #193953;
+     font-weight: bolder;
+     font-size:20pt;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+ }
+
+ #vente{
+    
+    text-decoration: none;
+    margin-bottom: 18px;
+   margin-left: 30%;
+   display: inline-block;
+   margin-top: 13px;
+   color: #193953;
+    font-weight: bolder;
+    font-size:20pt;
+   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.space, .row{
+    margin-left: 2%;
+    
+}
+#one, #two{
+    margin-right: 1%;
+}
+ #four{
+    margin-left: 2%;
+    
+}
